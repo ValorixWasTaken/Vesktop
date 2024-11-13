@@ -14,8 +14,8 @@ importers:
   .:
     dependencies:
       arrpc:
-        specifier: github:OpenAsar/arrpc#5aadc307cb9bf4479f0a12364a253b07a77ace22
-        version: https://codeload.github.com/OpenAsar/arrpc/tar.gz/5aadc307cb9bf4479f0a12364a253b07a77ace22(patch_hash=biyukfa6dww2wxujy4eyvkhrti)
+        specifier: github:ValorixWasTaken/arrpc#63660d034d88f45a16701d0bb23a27ede502faaf
+        version: https://codeload.github.com/ValorixWasTaken/arrpc/tar.gz/63660d034d88f45a16701d0bb23a27ede502faaf(patch_hash=biyukfa6dww2wxujy4eyvkhrti)
       electron-updater:
         specifier: ^6.3.4
         version: 6.3.4
@@ -630,8 +630,8 @@ packages:
     resolution: {integrity: sha512-bMxMKAjg13EBSVscxTaYA4mRc5t1UAXa2kXiGTNfZ079HIWXEkKmkgFrh/nJqamaLSrXO5H4WFFkPEaLJWbs3A==}
     engines: {node: '>= 0.4'}
 
-  arrpc@https://codeload.github.com/OpenAsar/arrpc/tar.gz/5aadc307cb9bf4479f0a12364a253b07a77ace22:
-    resolution: {tarball: https://codeload.github.com/OpenAsar/arrpc/tar.gz/5aadc307cb9bf4479f0a12364a253b07a77ace22}
+  arrpc@https://codeload.github.com/ValorixWasTaken/arrpc/tar.gz/63660d034d88f45a16701d0bb23a27ede502faaf:
+    resolution: {tarball: https://codeload.github.com/ValorixWasTaken/arrpc/tar.gz/63660d034d88f45a16701d0bb23a27ede502faaf}
     version: 3.5.0
     hasBin: true
 
@@ -3351,7 +3351,7 @@ snapshots:
       is-array-buffer: 3.0.4
       is-shared-array-buffer: 1.0.3
 
-  arrpc@https://codeload.github.com/OpenAsar/arrpc/tar.gz/5aadc307cb9bf4479f0a12364a253b07a77ace22(patch_hash=biyukfa6dww2wxujy4eyvkhrti):
+  arrpc@https://codeload.github.com/ValorixWasTaken/arrpc/tar.gz/63660d034d88f45a16701d0bb23a27ede502faaf(patch_hash=biyukfa6dww2wxujy4eyvkhrti):
     dependencies:
       ws: 8.18.0
     transitivePeerDependencies:
