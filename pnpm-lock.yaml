@@ -5,9 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 patchedDependencies:
-  arrpc@3.5.0:
+  arrpc@3.5.1:
     hash: biyukfa6dww2wxujy4eyvkhrti
-    path: patches/arrpc@3.5.0.patch
+    path: patches/arrpc@3.5.1.patch
 
 importers:
 
